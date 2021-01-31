@@ -1,0 +1,30 @@
+{
+  "name": "compare-by-path",
+  "version": "1.0.0",
+  "description": "Lurking button class changes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "5.5.0",
+    "node-notifier": "9.0.0",
+    "cheerio": "1.0.0-rc.5",
+    "lodash": "4.17.20"
+  },
+  "devDependencies": {
+    "@types/node": "14.14.22",
+    "@types/cheerio": "0.22.23",
+    "@types/lodash": "4.14.168"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MustSeeMelons/compare-by-path.git"
+  },
+  "author": "strautins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MustSeeMelons/compare-by-path/issues"
+  },
+  "homepage": "https://github.com/MustSeeMelons/compare-by-path#readme"
+}
