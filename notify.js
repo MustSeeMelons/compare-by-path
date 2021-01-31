@@ -8,7 +8,7 @@ module.exports = {
         title: "ZZ",
         message: msg,
         icon: "./icon.png",
-        appID: "ZZ Scraper",
+        appID: "ZZ Class",
         id: "duk",
         type: "error",
       },
